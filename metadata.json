@@ -1,0 +1,6 @@
+{
+  "name": "Super Ludo",
+  "description": "Fast-paced mini Ludo game featuring local multiplayer, randomized match colors, dynamic superpower tiles, interactive animated 3D-styled dice, and customizable AI players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
